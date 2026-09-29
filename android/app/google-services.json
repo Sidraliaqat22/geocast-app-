@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "85876900118",
+    "project_id": "taskapp-6e8f4",
+    "storage_bucket": "taskapp-6e8f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85876900118:android:3a678c84be14f390215037",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85876900118-q0je0rokp21464rrgh5mev233bltfj35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskapp",
+            "certificate_hash": "7eb517346718aa17c769673a8d76d9272e455d1b"
+          }
+        },
+        {
+          "client_id": "85876900118-9r3ehklilef9v7ncgbst7jll3fohvn6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqwsCjjFUSYVDAoZhv-fSzZ_11XW3sOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85876900118-9r3ehklilef9v7ncgbst7jll3fohvn6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85876900118-dv07o3tj41gn9uvrp631lhtugtp8rv3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
